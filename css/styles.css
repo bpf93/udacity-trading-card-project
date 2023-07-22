@@ -14,6 +14,13 @@ img {
   margin: 5px;
 }
 
+/* Info-Section Styling */
+.info-section {
+  border: 1px solid #d8d8d8;
+  padding: 10px;
+  margin: 5px;
+}
+
 /* Text Styling */
 .card-title {
   padding: 0 0 0 5px;
