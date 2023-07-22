@@ -1,0 +1,10 @@
+.card {
+  margin: 0 auto;
+  width: 310px;
+  border: 1px solid #d8d8d8;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 10px 10px 5px #d8d8d8;
+  background-image: linear-gradient(#f3f1ef 50%, #7bb362);
+  background-color: #f3f1ef;
+}
