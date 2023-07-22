@@ -8,3 +8,8 @@
   background-image: linear-gradient(#f3f1ef 50%, #7bb362);
   background-color: #f3f1ef;
 }
+
+img {
+  width: 300px;
+  margin: 5px;
+}
