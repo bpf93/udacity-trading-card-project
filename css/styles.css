@@ -9,6 +9,11 @@
   background-color: #f3f1ef;
 }
 
+img {
+  width: 300px;
+  margin: 5px;
+}
+
 /* Text Styling */
 .card-title {
   padding: 0 0 0 5px;
@@ -19,7 +24,12 @@ p.fun-fact {
   font-style: italic;
 }
 
-img {
-  width: 300px;
-  margin: 5px;
+/* List Styling */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.label {
+  font-weight: bold;
 }
