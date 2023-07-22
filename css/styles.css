@@ -9,9 +9,14 @@
   background-color: #f3f1ef;
 }
 
+/* Text Styling */
 .card-title {
   padding: 0 0 0 5px;
   margin: 10px 0 15px;
+}
+
+p.fun-fact {
+  font-style: italic;
 }
 
 img {
