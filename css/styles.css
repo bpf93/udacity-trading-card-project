@@ -1,3 +1,4 @@
+/* Card Styling */
 .card {
   margin: 0 auto;
   width: 310px;
@@ -9,6 +10,7 @@
   background-color: #f3f1ef;
 }
 
+/* Image Styling */
 img {
   width: 300px;
   margin: 5px;
@@ -21,7 +23,6 @@ img {
   margin: 5px;
 }
 
-/* Text Styling */
 .card-title {
   padding: 0 0 0 5px;
   margin: 10px 0 15px;
