@@ -1,2 +1,12 @@
 # Animal Trading Card Project
-This is the first project I worked on while attending Udacity's Front-End Web Development Nanodegree Program. For this project I had to use my knowledge of HTML and CSS to create a web-based trading card about an animal of my choice.
+
+## Project Details
+
+For this project I used HTML and CSS to create a web-based animal trading card. 
+
+## Installation
+
+To get a copy of the project on your local computer:
+- Fork repository to make your own copy
+- Go to *your copy* of the repository and copy the URL (click green Code button)
+- In the command line/terminal, enter: ```git clone <URL>```
